@@ -956,3 +956,7 @@ section {
     padding-right: 20px 15px;
   }
 }
+
+.bootstrap-tag {
+  padding-left: 20px;
+}
